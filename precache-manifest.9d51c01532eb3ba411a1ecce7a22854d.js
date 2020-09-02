@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2893f5a6da994fb2d5e540ff90463158",
+    "revision": "75019ec0a1cabc9631d94401ba9fe30c",
     "url": "/index.html"
   },
   {
-    "revision": "ad1a308882102ee35795",
-    "url": "/static/css/main.ea335821.chunk.css"
+    "revision": "87c643bd425b5bd120e6",
+    "url": "/static/css/main.d89be6cb.chunk.css"
   },
   {
-    "revision": "3e4bd741053f9ff0d8b3",
-    "url": "/static/js/2.f01db290.chunk.js"
+    "revision": "ae3c7c9edb960bc78d7c",
+    "url": "/static/js/2.95ef4641.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.f01db290.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.95ef4641.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad1a308882102ee35795",
-    "url": "/static/js/main.f35fcaf1.chunk.js"
+    "revision": "87c643bd425b5bd120e6",
+    "url": "/static/js/main.54e063b8.chunk.js"
   },
   {
     "revision": "1dca4ba425467718080d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flat-about.cd3014db.svg"
   },
   {
-    "revision": "da19925d1f2fb12069e45384b863975c",
-    "url": "/static/media/flat-edu.da19925d.svg"
+    "revision": "1e136508a4073a95f3f3b6dd35cd0eca",
+    "url": "/static/media/flat-edu.1e136508.svg"
   },
   {
     "revision": "788d68a604d7fcdab971078d9fa63ce7",
@@ -88,6 +88,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo-win7.2867b9e4.webp"
   },
   {
+    "revision": "ee4d0669280c8b7b2c20aea5802f55c6",
+    "url": "/static/media/skill-androidstd.ee4d0669.svg"
+  },
+  {
+    "revision": "f1e331f63d182c6f0161ef7a85939829",
+    "url": "/static/media/skill-balsamiq.f1e331f6.svg"
+  },
+  {
     "revision": "3ff965b647aa21770daa17bfaac79fd8",
     "url": "/static/media/skill-bootstrap.3ff965b6.svg"
   },
@@ -100,8 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-css.262844af.svg"
   },
   {
-    "revision": "f618641c78751b81086e2cd729ddb296",
-    "url": "/static/media/skill-html.f618641c.svg"
+    "revision": "25330de4710dd24b6afd81c3448c4803",
+    "url": "/static/media/skill-eclipse.25330de4.svg"
+  },
+  {
+    "revision": "52ee96f45f510c80e7d53df15f360902",
+    "url": "/static/media/skill-html.52ee96f4.svg"
   },
   {
     "revision": "a732a6e5bc69653a55d6dd81ab8d2d5e",
@@ -116,12 +128,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-js.dd60b11e.svg"
   },
   {
+    "revision": "bd03a0da3698c796d747debcb3d81725",
+    "url": "/static/media/skill-office.bd03a0da.svg"
+  },
+  {
+    "revision": "fa8d8fac491a323f92674a521a38d401",
+    "url": "/static/media/skill-photoshop.fa8d8fac.svg"
+  },
+  {
     "revision": "1a36cc4d7f1b283edce389cb41bddb1f",
     "url": "/static/media/skill-reactjs.1a36cc4d.svg"
   },
   {
-    "revision": "e0f651ac7aecf9187f66e5bd5f181c10",
-    "url": "/static/media/skill-sass.e0f651ac.svg"
+    "revision": "3581d5d1a87c91db84212d4bfe9581d1",
+    "url": "/static/media/skill-sass.3581d5d1.svg"
+  },
+  {
+    "revision": "511e3b5a6255bf6159837d1b007a4c3c",
+    "url": "/static/media/skill-vs.511e3b5a.svg"
+  },
+  {
+    "revision": "2a1a2bebce77c639a461658a0da9e827",
+    "url": "/static/media/skill-vscode.2a1a2beb.svg"
   },
   {
     "revision": "9a45fc7689867939804c469bfcd17784",
