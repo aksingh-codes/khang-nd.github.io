@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85bda152553bfd1527d296205c5ff5ee",
+    "revision": "10e7ba01453c109fbfec67901effee0c",
     "url": "/index.html"
   },
   {
-    "revision": "112d48e6289a688bf7f6",
-    "url": "/static/css/main.31ba0985.chunk.css"
+    "revision": "bd527ac69522669140a6",
+    "url": "/static/css/main.a1c361e8.chunk.css"
   },
   {
     "revision": "5f424c75672bc2885422",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.6132cc10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "112d48e6289a688bf7f6",
-    "url": "/static/js/main.27749878.chunk.js"
+    "revision": "bd527ac69522669140a6",
+    "url": "/static/js/main.ecb0507e.chunk.js"
   },
   {
     "revision": "1dca4ba425467718080d",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flat-work.eec1ccf5.svg"
   },
   {
-    "revision": "8ce900e82ad4dd9668afcb8ba112dc2a",
-    "url": "/static/media/folder-front.8ce900e8.svg"
+    "revision": "1d20d8376530d161a7bc32812b103efb",
+    "url": "/static/media/folder-front.1d20d837.svg"
   },
   {
     "revision": "c6cb0badfa072bb3bfc8a2325b2a3d1a",
@@ -88,44 +88,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo-win7.2867b9e4.webp"
   },
   {
-    "revision": "ee4d0669280c8b7b2c20aea5802f55c6",
-    "url": "/static/media/skill-androidstd.ee4d0669.svg"
+    "revision": "cf4398833bfc1e41ffafbfd450636a70",
+    "url": "/static/media/skill-androidstd.cf439883.svg"
   },
   {
-    "revision": "f1e331f63d182c6f0161ef7a85939829",
-    "url": "/static/media/skill-balsamiq.f1e331f6.svg"
+    "revision": "500f856861956c3017d634f727e396fa",
+    "url": "/static/media/skill-balsamiq.500f8568.svg"
   },
   {
-    "revision": "3ff965b647aa21770daa17bfaac79fd8",
-    "url": "/static/media/skill-bootstrap.3ff965b6.svg"
+    "revision": "021b9945a4e4e39ac7e7e6b95afc573b",
+    "url": "/static/media/skill-bootstrap.021b9945.svg"
   },
   {
     "revision": "7037158cd999184892f98fc2488915db",
     "url": "/static/media/skill-csharp.7037158c.svg"
   },
   {
-    "revision": "262844afdac183b1a6214da03485c168",
-    "url": "/static/media/skill-css.262844af.svg"
+    "revision": "e2055856cabe3cbe506714c11292ef6f",
+    "url": "/static/media/skill-css.e2055856.svg"
   },
   {
-    "revision": "25330de4710dd24b6afd81c3448c4803",
-    "url": "/static/media/skill-eclipse.25330de4.svg"
+    "revision": "70d16b8555b8ff8b1b452ed85e76b86f",
+    "url": "/static/media/skill-eclipse.70d16b85.svg"
   },
   {
-    "revision": "52ee96f45f510c80e7d53df15f360902",
-    "url": "/static/media/skill-html.52ee96f4.svg"
+    "revision": "f618641c78751b81086e2cd729ddb296",
+    "url": "/static/media/skill-html.f618641c.svg"
   },
   {
-    "revision": "a732a6e5bc69653a55d6dd81ab8d2d5e",
-    "url": "/static/media/skill-java.a732a6e5.svg"
+    "revision": "84321945474161660fa7d892460c2d6c",
+    "url": "/static/media/skill-java.84321945.svg"
   },
   {
     "revision": "89f468496a08a3d43503fd3eae3ceaf1",
     "url": "/static/media/skill-jquery.89f46849.svg"
   },
   {
-    "revision": "dd60b11e9762b6e25f6d4ce981a1eeae",
-    "url": "/static/media/skill-js.dd60b11e.svg"
+    "revision": "f2bd0c0cb064f241f93ab02be9e524b0",
+    "url": "/static/media/skill-js.f2bd0c0c.svg"
   },
   {
     "revision": "bd03a0da3698c796d747debcb3d81725",
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-reactjs.1a36cc4d.svg"
   },
   {
-    "revision": "3581d5d1a87c91db84212d4bfe9581d1",
-    "url": "/static/media/skill-sass.3581d5d1.svg"
+    "revision": "e0f651ac7aecf9187f66e5bd5f181c10",
+    "url": "/static/media/skill-sass.e0f651ac.svg"
   },
   {
     "revision": "511e3b5a6255bf6159837d1b007a4c3c",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-vscode.2a1a2beb.svg"
   },
   {
-    "revision": "9a45fc7689867939804c469bfcd17784",
-    "url": "/static/media/skill-vuejs.9a45fc76.svg"
+    "revision": "6fb1734b4f058fb95c0bcff327d69bae",
+    "url": "/static/media/skill-vuejs.6fb1734b.svg"
   },
   {
     "revision": "87276c977499238ebccfdbd6f6792e6c",
