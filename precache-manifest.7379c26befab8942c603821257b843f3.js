@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "993dc8cebd7d0825bca3152c6a1b5d01",
+    "revision": "3edd6b74a4722275e356a8e24db71ffb",
     "url": "/index.html"
   },
   {
-    "revision": "c9b6c6118885f18aa57a",
-    "url": "/static/css/main.45973e5d.chunk.css"
+    "revision": "67f5f93b80aaeaee9215",
+    "url": "/static/css/main.767cdc2e.chunk.css"
   },
   {
-    "revision": "b9194a77ade6f5624402",
-    "url": "/static/js/2.e8999bce.chunk.js"
+    "revision": "1f990f3f8b637b95f267",
+    "url": "/static/js/2.2d2d776d.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.e8999bce.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2d2d776d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9b6c6118885f18aa57a",
-    "url": "/static/js/main.a18ad98c.chunk.js"
+    "revision": "67f5f93b80aaeaee9215",
+    "url": "/static/js/main.8e5c3448.chunk.js"
   },
   {
     "revision": "1dca4ba425467718080d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfb604535e1e22dd75e504261a087074",
     "url": "/static/media/logo-fandom.cfb60453.webp"
+  },
+  {
+    "revision": "3f558da6a3b2c0a3aa9a46a6b8f81652",
+    "url": "/static/media/logo-luckydraw.3f558da6.webp"
   },
   {
     "revision": "2867b9e445e526aa4b8f5f7dbbf3a23c",
@@ -156,24 +160,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-vuejs.9a45fc76.svg"
   },
   {
-    "revision": "87276c977499238ebccfdbd6f6792e6c",
-    "url": "/static/media/social-fandom-active.87276c97.webp"
+    "revision": "c202ce115979d30a68e74e63c2bab0d0",
+    "url": "/static/media/social-dev.c202ce11.webp"
   },
   {
     "revision": "d9c4838a33bffb6c2cc6e41655c01671",
     "url": "/static/media/social-fandom.d9c4838a.webp"
   },
   {
-    "revision": "d2183868347510172945d80e1becede2",
-    "url": "/static/media/social-github-active.d2183868.webp"
-  },
-  {
     "revision": "861a9ee60dbd26d98fda80d001e65079",
     "url": "/static/media/social-github.861a9ee6.webp"
-  },
-  {
-    "revision": "d3c4472c4bd5228e3ae27a8211c1f46c",
-    "url": "/static/media/social-linkedin-active.d3c4472c.webp"
   },
   {
     "revision": "9d4bd073158cfbed48490fae64d29163",
