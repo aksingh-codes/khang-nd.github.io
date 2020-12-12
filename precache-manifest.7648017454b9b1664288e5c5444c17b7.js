@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3edd6b74a4722275e356a8e24db71ffb",
+    "revision": "fc34bd568a1280c608501d135ebf53e2",
     "url": "/index.html"
   },
   {
-    "revision": "67f5f93b80aaeaee9215",
-    "url": "/static/css/main.767cdc2e.chunk.css"
+    "revision": "f6033df8c28a14c4677e",
+    "url": "/static/css/main.f2caa280.chunk.css"
   },
   {
-    "revision": "1f990f3f8b637b95f267",
-    "url": "/static/js/2.2d2d776d.chunk.js"
+    "revision": "17208caa2db828f3c706",
+    "url": "/static/js/2.9938a98a.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.2d2d776d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9938a98a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67f5f93b80aaeaee9215",
-    "url": "/static/js/main.8e5c3448.chunk.js"
+    "revision": "f6033df8c28a14c4677e",
+    "url": "/static/js/main.e9eec00b.chunk.js"
   },
   {
     "revision": "1dca4ba425467718080d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfb604535e1e22dd75e504261a087074",
     "url": "/static/media/logo-fandom.cfb60453.webp"
+  },
+  {
+    "revision": "3e44b43f4c175cc7d9bb67319113ca60",
+    "url": "/static/media/logo-fandomutils.3e44b43f.svg"
   },
   {
     "revision": "3f558da6a3b2c0a3aa9a46a6b8f81652",
@@ -160,20 +164,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill-vuejs.9a45fc76.svg"
   },
   {
-    "revision": "c202ce115979d30a68e74e63c2bab0d0",
-    "url": "/static/media/social-dev.c202ce11.webp"
+    "revision": "8a1f27b85035661bb6730936a7228586",
+    "url": "/static/media/social-dev.8a1f27b8.svg"
   },
   {
     "revision": "d9c4838a33bffb6c2cc6e41655c01671",
     "url": "/static/media/social-fandom.d9c4838a.webp"
   },
   {
-    "revision": "861a9ee60dbd26d98fda80d001e65079",
-    "url": "/static/media/social-github.861a9ee6.webp"
+    "revision": "1987e827ff184514a4ccace9962d2b6a",
+    "url": "/static/media/social-github.1987e827.svg"
   },
   {
-    "revision": "9d4bd073158cfbed48490fae64d29163",
-    "url": "/static/media/social-linkedin.9d4bd073.webp"
+    "revision": "9c0329830b019fc3107b50fe76750f5f",
+    "url": "/static/media/social-linkedin.9c032983.svg"
+  },
+  {
+    "revision": "51c99e5bd8725ffead7419b2aae5908e",
+    "url": "/static/media/social-twitter.51c99e5b.svg"
   },
   {
     "revision": "790dc8edb6b29513f891196578810a5b",
