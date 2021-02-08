@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "891ddd6d1914589aa819be9a5f927524",
+    "revision": "107f59d18ed88c8378cb807c05f68282",
     "url": "/index.html"
   },
   {
-    "revision": "c3e27d0181a04857d2ea",
-    "url": "/static/css/main.425da21f.chunk.css"
+    "revision": "a15428648482441f1f5e",
+    "url": "/static/css/main.1ccb48f2.chunk.css"
   },
   {
-    "revision": "17208caa2db828f3c706",
-    "url": "/static/js/2.9938a98a.chunk.js"
+    "revision": "b57ef58c47f6bbbe6ee3",
+    "url": "/static/js/2.1f894808.chunk.js"
   },
   {
     "revision": "54fd6816419f7824e2804745930c9117",
-    "url": "/static/js/2.9938a98a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1f894808.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3e27d0181a04857d2ea",
-    "url": "/static/js/main.43789b8f.chunk.js"
+    "revision": "a15428648482441f1f5e",
+    "url": "/static/js/main.d4e10486.chunk.js"
   },
   {
     "revision": "1dca4ba425467718080d",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ce900e82ad4dd9668afcb8ba112dc2a",
     "url": "/static/media/folder-front.8ce900e8.svg"
+  },
+  {
+    "revision": "cf691b3af4223100c42576959b3d1aad",
+    "url": "/static/media/logo-7css.cf691b3a.webp"
   },
   {
     "revision": "c6cb0badfa072bb3bfc8a2325b2a3d1a",
@@ -184,15 +188,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/social-twitter.51c99e5b.svg"
   },
   {
-    "revision": "790dc8edb6b29513f891196578810a5b",
-    "url": "/static/media/theme-classic.790dc8ed.webp"
+    "revision": "1da3bcce7abfc6200c78df001988f605",
+    "url": "/static/media/theme-classic.1da3bcce.webp"
   },
   {
-    "revision": "5741994acd864ba4ba2cc86af509f7f7",
-    "url": "/static/media/theme-flat.5741994a.webp"
+    "revision": "3aac7c5070772e1454594b70c5dc02af",
+    "url": "/static/media/theme-flat.3aac7c50.webp"
   },
   {
-    "revision": "4ac429dbf6eb53c9d5f9e3642121696c",
-    "url": "/static/media/theme-neumorph.4ac429db.webp"
+    "revision": "b5010ed1116c949e57057f732396b2a6",
+    "url": "/static/media/theme-neumorph.b5010ed1.webp"
   }
 ]);
